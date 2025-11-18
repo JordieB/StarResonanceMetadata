@@ -20,5 +20,5 @@ python global-metadata-dumper.py <.DMP file> <output.dat>
 python global-metadata-dumperpy BPSR.DMP global-metadata.py
 ```
 
-Thanks to:
-- @dmlgzs
+### Special Thanks
+- [@dmlgzs](https://github.com/dmlgzs)
