@@ -1,6 +1,6 @@
 # Star Resonance Dumper
 
-A tool for dumping BPSR global-metadata.dat from memory dump files. Supports both existing dump files and automatic process memory dumping.
+A tool for dumping BPSR `global-metadata.dat` from memory dump files. Supports both existing dump files and automatic process memory dumping.
 
 ## Features
 
@@ -102,3 +102,4 @@ python dump_global_metadata.py --process BPSR.exe --dump-out ./dump.dmp --delete
 
 - [@dmlgzs](https://github.com/dmlgzs) - Analysis and information
 - [@rushkii](https://github.com/rushkii) - Original implementation
+- [@JordieB](https://github.com/JordieB) - Refactoring and additional features
